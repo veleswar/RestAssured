@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea/
+.idea/*
+.idea/.*
+target/
+.idea/.gitignore
+.idea/encodings.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+
+
